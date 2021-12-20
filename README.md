@@ -5,7 +5,7 @@ Games Poker developed using Flutter
 
 Beta Version.
 
-Screenshot Adeku Akur Beta Version: ![Screenshot Adeku Akur Beta Version](https://raw.githubusercontent.com/AnandaRauf/Fadecton-Face-Detection/project/SS%20Fadecton.png)
+Screenshot Adeku Akur Beta Version: ![Screenshot Adeku Akur Beta Version](https://raw.githubusercontent.com/AnandaRauf/Adeku-Akur-Aku-dan-Kamu-Devs-Games-Asian-Poker-User-/main/AT_20122021_20461.jpg)
 
 Dev by: Aku dan Kamu Devs.
 Developed date: 20 December 2021.
