@@ -56,7 +56,7 @@ Kontribusi?
 Bahan:
 - Flutter SDK: https://docs.flutter.dev/get-started/install
 - Visual Studio Code: https://code.visualstudio.com/download
-- Plugin Dart and Flutter Extension Visual Studio Code: Press Ctrl + Shift + X for opening marketplace extensions.
+- Plugin Dart dan Ekstensi Flutter Visual Studio Code: Tekan Ctrl + Shift + X untuk buka marketplace extensi.
 - Extract file Flutter SDK ke PC kalian.
 - Setting Env Variable path dan system: copy paste lokasi folder flutter and flutter/bin.
 - Internet minimal: kuota 4GB.
